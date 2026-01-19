@@ -69,6 +69,14 @@ The system includes **separate User and Admin modes** and demonstrates how a rea
 - **Event-Driven Programming**
 
 ---
+## ▶ How to Run
+
+1. Open the project in **Visual Studio**
+2. Load the solution file `SPG.sln`
+3. Build the solution
+4. Run the project
+5. The **Spark Powerhouse Gym** application window will launch
+---
 
 ## ℹ Notes
 
