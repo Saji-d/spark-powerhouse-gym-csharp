@@ -1,9 +1,9 @@
 # 🏋️ Spark Powerhouse Gym – C# WinForms Gym Management Simulation
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-0078D6?style=flat-square&logo=windows&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?logo=dotnet&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-0078D6?logo=windows&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 
 **Spark Powerhouse Gym** is a **C# WinForms–based desktop application** developed as part of academic coursework. The project simulates a gym management and membership system with a modern, web-style user interface.
 
