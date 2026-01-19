@@ -16,51 +16,70 @@ The system includes **separate User and Admin modes** and demonstrates how a rea
 ## ✨ Features
 
 ### 👤 User Mode
-
 - Web-style graphical user interface built using **C# WinForms**
 - Home dashboard with menu-based navigation
-- Browse gym information through structured sections:
+- Browse gym information:
   - About Us
   - Contact Us
 - View gym class schedules in a weekly timetable format
-- Explore membership plans:
-  - 3 Months
-  - 6 Months
-  - 12 Months
-- Browse gym equipment through a dedicated equipment shop
-- Select equipment and proceed through a simulated checkout flow
-- Choose between simulated payment methods:
-  - Card payment *(simulation only)*
-  - Mobile payment *(bKash-style UI simulation)*
+- Explore membership plans (3 / 6 / 12 months)
+- Browse gym equipment via a dedicated shop
+- Simulated checkout and payment flow
+- Card payment *(simulation only)*
+- Mobile payment *(bKash-style UI simulation)*
 - OTP-based confirmation *(simulated)*
-- Smooth form navigation and consistent visual design
 
-> **Note:** All purchases, payments, and OTP verifications are fully simulated and do not perform real transactions.
+> **Note:** All purchases, payments, and OTP verifications are fully simulated.
 
 ---
 
 ### 🧑‍💼 Admin Mode
-
 - Separate admin interface with restricted access
 - Admin login authentication
-- View registered users within the system
-- Access an admin dashboard for monitoring system activity
-- Manage user-related data in a controlled environment
+- View registered users
+- Monitor membership information
+- Manage user-related records
 
 ---
 
 ### 🔐 General
-
 - Role-based access control (Admin vs User)
 - Event-driven desktop application design
-- Modular WinForms structure for maintainability
-- Fitness-themed UI design with custom visuals
-- Clear separation of functional workflows
+- Modular WinForms structure
+- Fitness-themed UI design
+- Clear separation of workflows
+
+---
+
+## 📸 Application Screenshots
+
+> Selected screenshots showcasing **User** and **Admin** workflows.
+
+### 🔐 Authentication & Mode Selection
+![Mode Selection](Screenshots/mode-selection.png)
+![User Login](Screenshots/user-login.png)
+![Admin Login](Screenshots/admin-login.png)
+
+---
+
+### 👤 User Interface
+![User Dashboard](Screenshots/user-dashboard.png)
+![Membership Plans](Screenshots/membership-plans.png)
+![Gym Schedule](Screenshots/gym-schedule.png)
+![Equipment Shop](Screenshots/equipment-shop.png)
+![Payment Simulation](Screenshots/payment-simulation.png)
+![Contact Information](Screenshots/gym-contact-information.png)
+
+---
+
+### 🛠 Admin Dashboard
+![Admin Dashboard](Screenshots/admin-dashboard.png)
+![Admin – User Information](Screenshots/admin-user-information.png)
+![Admin – Membership Information](Screenshots/admin-membership-information.png)
 
 ---
 
 ## 🛠 Technologies Used
-
 - **C#**
 - **.NET Framework**
 - **Windows Forms (WinForms)**
@@ -69,25 +88,24 @@ The system includes **separate User and Admin modes** and demonstrates how a rea
 - **Event-Driven Programming**
 
 ---
-## ▶ How to Run
 
+## ▶ How to Run
 1. Open the project in **Visual Studio**
-2. Load the solution file `SPG.sln`
+2. Load `SPG.sln`
 3. Build the solution
 4. Run the project
-5. The **Spark Powerhouse Gym** application window will launch
+5. The application window will launch
+
 ---
 
 ## ℹ Notes
-
-- This project is a **simulation-based academic application**
-- No real payments, OTPs, or external services are used
-- All financial and communication workflows are mock implementations
+- Simulation-based academic project
+- No real payments, OTPs, or external services
+- All workflows are mock implementations
 
 ---
 
 ## 👤 Author
-
 **Sajidur Rahman Sajid**  
 BSc in Computer Science & Engineering (CSE)  
 Final-year undergraduate student
