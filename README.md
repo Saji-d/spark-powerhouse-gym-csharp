@@ -53,26 +53,41 @@ The system includes **separate User and Admin modes** and demonstrates how a rea
 
 ## 📸 Application Screenshots
 
-> Selected screenshots showcasing **User** and **Admin** workflows.
+A visual walkthrough of the application highlighting key interfaces and role-based interactions.
+
+---
 
 ### 🔐 Authentication & Mode Selection
+Core entry points that define role-based access.
+
 ![Mode Selection](Screenshots/mode-selection.png)
 ![User Login](Screenshots/user-login.png)
 ![Admin Login](Screenshots/admin-login.png)
 
 ---
 
-### 👤 User Interface
+### 👤 User Experience
+Primary user-facing features demonstrating navigation, services, and simulated interactions.
+
 ![User Dashboard](Screenshots/user-dashboard.png)
 ![Membership Plans](Screenshots/membership-plans.png)
-![Gym Schedule](Screenshots/gym-schedule.png)
+![Gym Class Schedule](Screenshots/gym-schedule.png)
 ![Equipment Shop](Screenshots/equipment-shop.png)
+
+---
+
+### 💳 Payment Simulation (Mock)
+Demonstrates the simulated checkout and OTP-based confirmation flow  
+(UI-only, no real transactions)
+
 ![Payment Simulation](Screenshots/payment-simulation.png)
-![Contact Information](Screenshots/gym-contact-information.png)
+![Payment Gateway (OTP Simulation)](Screenshots/payment-gateway.png)
 
 ---
 
 ### 🛠 Admin Dashboard
+Administrative controls for managing users and memberships.
+
 ![Admin Dashboard](Screenshots/admin-dashboard.png)
 ![Admin – User Information](Screenshots/admin-user-information.png)
 ![Admin – Membership Information](Screenshots/admin-membership-information.png)
