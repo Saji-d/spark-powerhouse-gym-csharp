@@ -23,7 +23,6 @@
     <a href="#-tech-stack">Tech Stack</a> ·
     <a href="#-getting-started">Getting Started</a> ·
     <a href="#-project-structure">Structure</a> ·
-    <a href="#-roadmap">Roadmap</a> ·
     <a href="#-author">Author</a>
   </p>
 </div>
@@ -150,8 +149,10 @@ git clone https://github.com/Saji-d/spark-powerhouse-gym-csharp.git
 
 ## ◈ Project Structure
 
+The solution is one WinForms project (`SPG`) with a form per screen, plus `Media` for images, `Screenshots` and `docs` for pictures.
+
 <details>
-<summary>Show folder tree</summary>
+<summary>Open the folder map</summary>
 
 ```text
 spark-powerhouse-gym-csharp/
@@ -175,20 +176,10 @@ spark-powerhouse-gym-csharp/
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## ◈ Roadmap
-
-- [x] User and admin flows with SQL Server persistence
-- [x] Membership plans, shop and simulated payments
-- [ ] Ship a database script and move connection strings into `App.config`
-- [ ] Replace the hard-coded admin login with stored, hashed credentials
-- [ ] Hash member passwords instead of saving them as entered
-- [ ] Clean up the legacy table names and duplicate sign-up forms
-
-<img src="assets/divider.svg" width="100%" alt="">
-
 ## ◈ Author
 
-**Sajidur Rahman Sajid**: Full-Stack Developer and AI engineer from Dhaka. BSc in CSE at American International University-Bangladesh (AIUB).
+**Sajidur Rahman Sajid**: Full-Stack Developer and AI engineer from Dhaka.<br>
+BSc in CSE at American International University-Bangladesh (AIUB).
 
 <p>
   <a href="https://www.sajidur.me"><img src="https://img.shields.io/badge/Portfolio-0B0E1A?style=flat-square&logo=googlechrome&logoColor=9B8CFA" alt="Portfolio"></a>
